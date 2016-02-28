@@ -1,0 +1,19 @@
+div{
+
+  background-color: #eaeaea;
+              border-style: none;
+              width: 20em;
+             font-family: Arial, sans-serif;
+
+}
+ div div{
+
+text-align: center;
+
+}
+input{
+  font-weight: normal
+         text-align: right;
+         vertical-align: top;
+
+}
